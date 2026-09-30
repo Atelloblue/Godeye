@@ -1,0 +1,1963 @@
+{
+  "1": {
+    "lat": 32.456354094882,
+    "lon": -93.844478621075,
+    "address": "I-20 W & I-220 E, Shreveport, Louisiana, 71109",
+    "geocoded": true
+  },
+  "2": {
+    "lat": 32.461747011385,
+    "lon": -93.827537034558,
+    "address": "I-20 W & Monkhouse Dr, Shreveport, Louisiana, 71109",
+    "geocoded": true
+  },
+  "3": {
+    "lat": 32.444339013865,
+    "lon": -93.949610988586,
+    "address": "I-20 W & Greenwood Rd, Greenwood, Louisiana, 71033",
+    "geocoded": true
+  },
+  "4": {
+    "lat": 32.491935986323,
+    "lon": -93.770723991921,
+    "address": "I-20 W & Lakeshore Dr, Shreveport, Louisiana, 71103",
+    "geocoded": true
+  },
+  "5": {
+    "lat": 32.495859010376,
+    "lon": -93.761841018573,
+    "address": "I-20 W & Linwood Ave, Shreveport, Louisiana, 71103",
+    "geocoded": true
+  },
+  "6": {
+    "lat": 32.497017684654,
+    "lon": -93.7586513133894,
+    "geocoded": false
+  },
+  "7": {
+    "lat": 32.501996994252,
+    "lon": -93.749538983102,
+    "address": "I-20 W & Sam Fertitta Dr, Shreveport, Louisiana, 71101",
+    "geocoded": true
+  },
+  "8": {
+    "lat": 32.519982488214,
+    "lon": -93.761457559773,
+    "address": "Common St, Shreveport, Louisiana, 71101",
+    "geocoded": true
+  },
+  "9": {
+    "lat": 32.510560910455,
+    "lon": -93.742366001821,
+    "address": "I-20 W & Spring St, Shreveport, Louisiana, 71101",
+    "geocoded": true
+  },
+  "10": {
+    "lat": 32.514201209264,
+    "lon": -93.734286976541,
+    "address": "I-20 W & Traffic St, Bossier City, Louisiana, 71111",
+    "geocoded": true
+  },
+  "11": {
+    "lat": 32.513283184969,
+    "lon": -93.715612810904,
+    "address": "I-20 W & Barksdale Blvd, Bossier City, Louisiana, 71112",
+    "geocoded": true
+  },
+  "12": {
+    "lat": 32.517772993314,
+    "lon": -93.709411962754,
+    "address": "I-20 W & Old Minden Rd, Bossier City, Louisiana, 71111",
+    "geocoded": true
+  },
+  "13": {
+    "lat": 32.525653993956,
+    "lon": -93.699295005621,
+    "address": "I-20 W & Airline Dr, Bossier City, Louisiana, 71112",
+    "geocoded": true
+  },
+  "14": {
+    "lat": 32.511067009769,
+    "lon": -92.191925976515,
+    "address": "I-20 W & Well Rd, West Monroe, Louisiana, 71291",
+    "geocoded": true
+  },
+  "15": {
+    "lat": 32.506162213397,
+    "lon": -92.157438803537,
+    "address": "I-20 W & Thomas Rd, West Monroe, Louisiana, 71291",
+    "geocoded": true
+  },
+  "16": {
+    "lat": 32.498127991566,
+    "lon": -92.13884899958,
+    "address": "I-20 W & Stella St, West Monroe, Louisiana, 71291",
+    "geocoded": true
+  },
+  "17": {
+    "lat": 32.499663011404,
+    "lon": -92.109793970412,
+    "address": "I-20 W & S 5th St, Monroe, Louisiana, 71201",
+    "geocoded": true
+  },
+  "18": {
+    "lat": 32.497284520649,
+    "lon": -92.113542106055,
+    "address": "I-20 W & Jackson St, Monroe, Louisiana, 71201",
+    "geocoded": true
+  },
+  "19": {
+    "lat": 29.606407815407,
+    "lon": -90.743790180769,
+    "address": "LA-24 & N Hollywood Rd, Houma, Louisiana, 70360",
+    "geocoded": true
+  },
+  "20": {
+    "lat": 30.5316933992,
+    "lon": -92.065363513336,
+    "address": "I-49 N & Highway 190, Opelousas, Louisiana, 70570",
+    "geocoded": true
+  },
+  "21": {
+    "lat": 30.15134574,
+    "lon": -90.44853,
+    "geocoded": false
+  },
+  "22": {
+    "lat": 30.25419097,
+    "lon": -90.40279,
+    "geocoded": false
+  },
+  "23": {
+    "lat": 30.34837687,
+    "lon": -90.41557,
+    "geocoded": false
+  },
+  "24": {
+    "lat": 30.438284715842,
+    "lon": -90.46058042462,
+    "address": "I-55 S & LA-22, Ponchatoula, Louisiana, 70454",
+    "geocoded": true
+  },
+  "25": {
+    "lat": 30.49133333,
+    "lon": -90.49783333,
+    "geocoded": false
+  },
+  "26": {
+    "lat": 30.504320995186,
+    "lon": -90.503818220694,
+    "address": "I-55 S & US-190 E, Hammond, Louisiana, 70401",
+    "geocoded": true
+  },
+  "27": {
+    "lat": 30.322,
+    "lon": -89.7375,
+    "geocoded": false
+  },
+  "28": {
+    "lat": 30.356272868784,
+    "lon": -89.74094222641,
+    "address": "I-59 N & Concord Loop, Pearl River, Louisiana, 70452",
+    "geocoded": true
+  },
+  "29": {
+    "lat": 30.452813990625,
+    "lon": -91.095733973708,
+    "address": "US-61 N & Florida Blvd, Baton Rouge, Louisiana, 70815",
+    "geocoded": true
+  },
+  "30": {
+    "lat": 30.508444179086,
+    "lon": -91.171896975102,
+    "address": "US-61 S & Scenic Hwy, Baton Rouge, Louisiana, 70805",
+    "geocoded": true
+  },
+  "31": {
+    "lat": 30.509182582846,
+    "lon": -91.149785514525,
+    "address": "US-61 S & Plank Rd, Baton Rouge, Louisiana, 70811",
+    "geocoded": true
+  },
+  "32": {
+    "lat": 30.35901198646,
+    "lon": -91.008652034685,
+    "address": "US-61 S & Highland Rd, Baton Rouge, Louisiana, 70817",
+    "geocoded": true
+  },
+  "33": {
+    "lat": 30.488427481841,
+    "lon": -91.121332306006,
+    "address": "US-61 S & Prescott Rd, Baton Rouge, Louisiana, 70805",
+    "geocoded": true
+  },
+  "34": {
+    "lat": 30.471111014705,
+    "lon": -91.108771018269,
+    "address": "US-61 N & S Choctaw Dr, Baton Rouge, Louisiana, 70815",
+    "geocoded": true
+  },
+  "35": {
+    "lat": 30.502370987321,
+    "lon": -91.131319008363,
+    "address": "US-61 S & Greenwell St, Baton Rouge, Louisiana, 70805",
+    "geocoded": true
+  },
+  "36": {
+    "lat": 30.443279785311,
+    "lon": -91.088894424536,
+    "address": "US-61 N & Goodwood Blvd, Baton Rouge, Louisiana, 70815",
+    "geocoded": true
+  },
+  "37": {
+    "lat": 30.404172004389,
+    "lon": -91.059093992719,
+    "address": "US-61 S & Sherwood Common Blvd, Baton Rouge, Louisiana, 70816",
+    "geocoded": true
+  },
+  "38": {
+    "lat": 30.398962986841,
+    "lon": -91.054363917119,
+    "address": "US-61 S & Siegen Ln, Baton Rouge, Louisiana, 70816",
+    "geocoded": true
+  },
+  "39": {
+    "lat": 30.304072005816,
+    "lon": -90.973294987796,
+    "address": "US-61 S & Old Jefferson Hwy, Prairieville, Louisiana, 70769",
+    "geocoded": true
+  },
+  "40": {
+    "lat": 30.385128990926,
+    "lon": -91.04185300462,
+    "address": "US-61 S & Pecue Ln, Baton Rouge, Louisiana, 70817",
+    "geocoded": true
+  },
+  "41": {
+    "lat": 30.3640840018,
+    "lon": -91.021840037323,
+    "address": "US-61 S & Barringer Rd, Baton Rouge, Louisiana, 70817",
+    "geocoded": true
+  },
+  "42": {
+    "lat": 30.190705005168,
+    "lon": -90.854464997935,
+    "address": "US-61 S & LA-22, Sorrento, Louisiana, 70778",
+    "geocoded": true
+  },
+  "43": {
+    "lat": 30.34893199352,
+    "lon": -90.997994025703,
+    "address": "US-61 S & State Fairgrounds, Baton Rouge, Louisiana, 70817",
+    "geocoded": true
+  },
+  "44": {
+    "lat": 30.332877002811,
+    "lon": -90.985436006908,
+    "address": "US-61 S & LA-427, Prairieville, Louisiana, 70769",
+    "geocoded": true
+  },
+  "45": {
+    "lat": 30.304072005816,
+    "lon": -90.973294987796,
+    "address": "US-61 S & LA-73, Prairieville, Louisiana, 70769",
+    "geocoded": true
+  },
+  "46": {
+    "lat": 30.269427001602,
+    "lon": -90.941882967456,
+    "address": "US-61 S & LA-621, Gonzales, Louisiana, 70737",
+    "geocoded": true
+  },
+  "47": {
+    "lat": 30.257010008328,
+    "lon": -90.930667981007,
+    "address": "US-61 S & LA-74, Gonzales, Louisiana, 70737",
+    "geocoded": true
+  },
+  "48": {
+    "lat": 30.246171788427,
+    "lon": -90.92083273964,
+    "address": "US-61 S & LA-44, Gonzales, Louisiana, 70737",
+    "geocoded": true
+  },
+  "49": {
+    "lat": 30.236468017211,
+    "lon": -90.911873993888,
+    "address": "US-61 N & LA-429, Gonzales, Louisiana, 70737",
+    "geocoded": true
+  },
+  "50": {
+    "lat": 30.339867216693,
+    "lon": -90.990833701096,
+    "address": "US-61 & LA-42, Prairieville, Louisiana, 70769",
+    "geocoded": true
+  },
+  "51": {
+    "lat": 30.190705005168,
+    "lon": -90.854464997935,
+    "address": "US-61 S & LA-22, Sorrento, Louisiana, 70778",
+    "geocoded": true
+  },
+  "52": {
+    "lat": 30.067197997154,
+    "lon": -90.481361006611,
+    "address": "US-61 N & Highway 51, LA Place, Louisiana, 70068",
+    "geocoded": true
+  },
+  "53": {
+    "lat": 30.45411438,
+    "lon": -91.08742716,
+    "geocoded": false
+  },
+  "54": {
+    "lat": 30.455784998115,
+    "lon": -91.076901010739,
+    "address": "US-190 E & Marilyn Dr, Baton Rouge, Louisiana, 70815",
+    "geocoded": true
+  },
+  "55": {
+    "lat": 30.459468233445,
+    "lon": -91.053655569251,
+    "address": "US-190 E, Baton Rouge, Louisiana, 70815",
+    "geocoded": true
+  },
+  "56": {
+    "lat": 30.466534788938,
+    "lon": -91.010023481683,
+    "address": "US-190 W & O'Neal Lane Ext, Baton Rouge, Louisiana, 70819",
+    "geocoded": true
+  },
+  "57": {
+    "lat": 30.465343389303,
+    "lon": -90.991761837314,
+    "address": "US-190 E, Baton Rouge, Louisiana, 70816",
+    "geocoded": true
+  },
+  "58": {
+    "lat": 30.442263717927,
+    "lon": -90.0828034270737,
+    "geocoded": false
+  },
+  "59": {
+    "lat": 30.393990716149,
+    "lon": -90.089336880524,
+    "address": "Highway 190 & LA-22, Mandeville, Louisiana, 70471",
+    "geocoded": true
+  },
+  "60": {
+    "lat": 32.557342518228,
+    "lon": -93.692945790176,
+    "address": "I-220 E, Bossier City, Louisiana, 71111",
+    "geocoded": true
+  },
+  "61": {
+    "lat": 32.472874281217,
+    "lon": -93.837319972849,
+    "address": "I-220 E & Jefferson Paige Rd, Shreveport, Louisiana, 71109",
+    "geocoded": true
+  },
+  "62": {
+    "lat": 32.485541683848,
+    "lon": -93.828051180499,
+    "address": "I-220 E & Lakeshore Dr, Shreveport, Louisiana, 71119",
+    "geocoded": true
+  },
+  "63": {
+    "lat": 32.495222195282,
+    "lon": -93.821367031811,
+    "address": "I-220 E & S Lakeshore Dr, Shreveport, Louisiana, 71109",
+    "geocoded": true
+  },
+  "64": {
+    "lat": 32.547438979404,
+    "lon": -93.633143014104,
+    "address": "I-220 E & US-79 S, Bossier City, Louisiana, 71111",
+    "geocoded": true
+  },
+  "65": {
+    "lat": 30.235513905173,
+    "lon": -93.165736912361,
+    "address": "I-210 E & US-90 W, Lake Charles, Louisiana, 70615",
+    "geocoded": true
+  },
+  "66": {
+    "lat": 29.975261804636,
+    "lon": -90.319340075515,
+    "address": "I-310 S & US-61 S, Saint Rose, Louisiana, 70087",
+    "geocoded": true
+  },
+  "67": {
+    "lat": 29.599361987598,
+    "lon": -90.758755985069,
+    "address": "LA-311 & S Hollywood Rd, Houma, Louisiana, 70360",
+    "geocoded": true
+  },
+  "68": {
+    "lat": 29.995382018385,
+    "lon": -90.109284971892,
+    "address": "I-610 W & Canal Blvd, New Orleans, Louisiana, 70124",
+    "geocoded": true
+  },
+  "69": {
+    "lat": 29.993018992242,
+    "lon": -90.077380011826,
+    "address": "I-610 W & Saint Bernard Ave, New Orleans, Louisiana, 70122",
+    "geocoded": true
+  },
+  "70": {
+    "lat": 29.991446002383,
+    "lon": -90.058773024966,
+    "address": "I-610 W & Elysian Fields Ave, New Orleans, Louisiana, 70122",
+    "geocoded": true
+  },
+  "71": {
+    "lat": 29.993823005178,
+    "lon": -90.093885863906,
+    "address": "I-610 W, New Orleans, Louisiana, 70124",
+    "geocoded": true
+  },
+  "72": {
+    "lat": 29.635483380237,
+    "lon": -90.759739601407,
+    "address": "LA-3040 & LA-24, Houma, Louisiana, 70360",
+    "geocoded": true
+  },
+  "73": {
+    "lat": 29.595002014933,
+    "lon": -90.741734016101,
+    "address": "LA-3040 & Saint Charles St, Houma, Louisiana, 70360",
+    "geocoded": true
+  },
+  "74": {
+    "lat": 29.605529014769,
+    "lon": -90.746193020952,
+    "address": "LA-3040 & S Hollywood Rd, Houma, Louisiana, 70360",
+    "geocoded": true
+  },
+  "75": {
+    "lat": 32.442154983264,
+    "lon": -93.84188199129,
+    "address": "LA-3132 W & W 70th St, Shreveport, Louisiana, 71109",
+    "geocoded": true
+  },
+  "138": {
+    "lat": 30.2483483697281,
+    "lon": -92.9827331394232,
+    "geocoded": false
+  },
+  "139": {
+    "lat": 30.327973143875,
+    "lon": -91.776518805498,
+    "address": "I-10 W, Breaux Bridge, Louisiana, 70517",
+    "geocoded": true
+  },
+  "140": {
+    "lat": 30.438123992848,
+    "lon": -91.178905000528,
+    "address": "I-10 E & S 10th St, Baton Rouge, Louisiana, 70802",
+    "geocoded": true
+  },
+  "141": {
+    "lat": 30.47963,
+    "lon": -90.9377,
+    "address": "Gray's Creek, Denham Springs, Louisiana",
+    "geocoded": true
+  },
+  "143": {
+    "lat": 30.439056018572,
+    "lon": -91.186359027022,
+    "address": "I-10 W & Highland Rd, Baton Rouge, Louisiana, 70802",
+    "geocoded": true
+  },
+  "144": {
+    "lat": 30.270019979342,
+    "lon": -90.985421003301,
+    "address": "I-10 W & LA-73, Prairieville, Louisiana, 70769",
+    "geocoded": true
+  },
+  "145": {
+    "lat": 30.321390212064,
+    "lon": -91.800529931467,
+    "address": "I-10 E & Old Henderson Hwy, Breaux Bridge, Louisiana, 70517",
+    "geocoded": true
+  },
+  "146": {
+    "lat": 30.210747015761,
+    "lon": -90.946971034141,
+    "address": "I-10 W & LA-30, Gonzales, Louisiana, 70737",
+    "geocoded": true
+  },
+  "147": {
+    "lat": 32.557342518228,
+    "lon": -93.692945790176,
+    "address": "I-220 E, Bossier City, Louisiana, 71111",
+    "geocoded": true
+  },
+  "148": {
+    "lat": 32.472345005941,
+    "lon": -93.79731256226,
+    "address": "I-20 W & Jewella Ave, Shreveport, Louisiana, 71109",
+    "geocoded": true
+  },
+  "149": {
+    "lat": 32.479014989212,
+    "lon": -93.77993402713,
+    "address": "I-20 W & Hearne Ave, Shreveport, Louisiana, 71103",
+    "geocoded": true
+  },
+  "150": {
+    "lat": 32.528700983398,
+    "lon": -93.674071009119,
+    "address": "I-20 W & Industrial Dr, Bossier City, Louisiana, 71112",
+    "geocoded": true
+  },
+  "154": {
+    "lat": 32.557489593773,
+    "lon": -93.678506293184,
+    "address": "I-220 E & Swan Lake Rd, Bossier City, Louisiana, 71111",
+    "geocoded": true
+  },
+  "155": {
+    "lat": 32.554024095905,
+    "lon": -93.781452241252,
+    "address": "I-220 E & US-71 S, Shreveport, Louisiana, 71107",
+    "geocoded": true
+  },
+  "156": {
+    "lat": 29.579973011082,
+    "lon": -90.723095010371,
+    "address": "LA-182 & LA-315, Houma, Louisiana, 70360",
+    "geocoded": true
+  },
+  "157": {
+    "lat": 29.5911822083196,
+    "lon": -90.7201352606066,
+    "geocoded": false
+  },
+  "158": {
+    "lat": 29.598193005472,
+    "lon": -90.718972036018,
+    "address": "LA-24 & LA-182, Houma, Louisiana, 70360",
+    "geocoded": true
+  },
+  "159": {
+    "lat": 29.5989565335298,
+    "lon": -90.70726,
+    "geocoded": false
+  },
+  "160": {
+    "lat": 29.591041607592,
+    "lon": -90.678648962955,
+    "address": "LA-24 & LA-3087, Houma, Louisiana, 70363",
+    "geocoded": true
+  },
+  "161": {
+    "lat": 29.58722,
+    "lon": -90.7016409925512,
+    "geocoded": false
+  },
+  "162": {
+    "lat": 29.592693010155,
+    "lon": -90.67754397666,
+    "address": "LA-659 & LA-3087, Houma, Louisiana, 70363",
+    "geocoded": true
+  },
+  "163": {
+    "lat": 29.679931020215,
+    "lon": -90.782973985552,
+    "address": "Highway 90 & LA-24, Gray, Louisiana, 70359",
+    "geocoded": true
+  },
+  "165": {
+    "lat": 30.41648099684,
+    "lon": -91.06976599948,
+    "address": "US-61 N & Coursey Blvd, Baton Rouge, Louisiana, 70816",
+    "geocoded": true
+  },
+  "166": {
+    "lat": 30.431733587958,
+    "lon": -91.080658115018,
+    "address": "US-61 N & Old Hammond Hwy, Baton Rouge, Louisiana, 70815",
+    "geocoded": true
+  },
+  "168": {
+    "lat": 30.449533313722,
+    "lon": -91.180556822187,
+    "address": "I-110 S & Florida St, Baton Rouge, Louisiana, 70802",
+    "geocoded": true
+  },
+  "169": {
+    "lat": 30.476614991425,
+    "lon": -91.112887035642,
+    "address": "US-61 S & Greenwell Springs Rd, Baton Rouge, Louisiana, 70805",
+    "geocoded": true
+  },
+  "170": {
+    "lat": 30.211659888835,
+    "lon": -90.881634266526,
+    "address": "US-61 S & LA-30, Gonzales, Louisiana, 70737",
+    "geocoded": true
+  },
+  "171": {
+    "lat": 30.4022548297202,
+    "lon": -91.0570886082113,
+    "geocoded": false
+  },
+  "172": {
+    "lat": 30.292614,
+    "lon": -90.402408,
+    "address": "Manchac, Louisiana",
+    "geocoded": true
+  },
+  "173": {
+    "lat": 29.94825976656,
+    "lon": -90.083734024947,
+    "geocoded": false
+  },
+  "174": {
+    "lat": 32.500364199514,
+    "lon": -92.108659228361,
+    "address": "I-20 W & LA-15, Monroe, Louisiana, 71201",
+    "geocoded": true
+  },
+  "175": {
+    "lat": 32.50066402019,
+    "lon": -92.099376019137,
+    "address": "I-20 W & Texas Ave, Monroe, Louisiana, 71201",
+    "geocoded": true
+  },
+  "176": {
+    "lat": 32.499483680585,
+    "lon": -92.083084868306,
+    "address": "I-20 W & US-165 S, Monroe, Louisiana, 71201",
+    "geocoded": true
+  },
+  "177": {
+    "lat": 32.498499980428,
+    "lon": -92.073100009967,
+    "address": "I-20 W & Pecanland Mall Dr, Monroe, Louisiana, 71203",
+    "geocoded": true
+  },
+  "178": {
+    "lat": 32.522385303174,
+    "lon": -92.080519000106,
+    "address": "US-165 S & US-80 E, Monroe, Louisiana, 71201",
+    "geocoded": true
+  },
+  "179": {
+    "lat": 32.523200610896,
+    "lon": -92.269449612251,
+    "address": "US-80 E & Cypress St, Calhoun, Louisiana, 71225",
+    "geocoded": true
+  },
+  "180": {
+    "lat": 30.148986,
+    "lon": -90.8741337789215,
+    "geocoded": false
+  },
+  "181": {
+    "lat": 30.069702511809,
+    "lon": -90.684686283963,
+    "address": "70 LA-3125, Gramercy, Louisiana, 70052",
+    "geocoded": true
+  },
+  "182": {
+    "lat": 30.107598896188,
+    "lon": -90.873480686393,
+    "address": "LA-70 & LA 3125, Paulina, Louisiana, 70763",
+    "geocoded": true
+  },
+  "183": {
+    "lat": 30.098777990834,
+    "lon": -90.907798796384,
+    "address": "LA-70 & LA 44, Convent, Louisiana, 70723",
+    "geocoded": true
+  },
+  "184": {
+    "lat": 30.097130611584,
+    "lon": -90.917245201262,
+    "address": "LA-70 & LA-18, Saint James, Louisiana, 70086",
+    "geocoded": true
+  },
+  "185": {
+    "lat": 31.24387573,
+    "lon": -92.42940521,
+    "geocoded": false
+  },
+  "186": {
+    "lat": 31.3333815,
+    "lon": -92.4142841,
+    "address": "Pineville, Louisiana",
+    "geocoded": true
+  },
+  "187": {
+    "lat": 31.324541811517,
+    "lon": -92.462396413303,
+    "address": "I-49 N & US-165 S, Alexandria, Louisiana, 71301",
+    "geocoded": true
+  },
+  "188": {
+    "lat": 30.245698047392,
+    "lon": -91.319347363352,
+    "address": "Intracoastal Rd, Plaquemine, Louisiana, 70764",
+    "geocoded": true
+  },
+  "189": {
+    "lat": 30.464367983148,
+    "lon": -90.974917975708,
+    "address": "US-190 W & River Run, Denham Springs, Louisiana, 70726",
+    "geocoded": true
+  },
+  "190": {
+    "lat": 30.464367983148,
+    "lon": -90.974917975708,
+    "address": "US-190 W & River Run, Denham Springs, Louisiana, 70726",
+    "geocoded": true
+  },
+  "192": {
+    "lat": 30.4467771596244,
+    "lon": -90.98919,
+    "geocoded": false
+  },
+  "193": {
+    "lat": 30.4148172,
+    "lon": -91.4326287,
+    "address": "Grosse Tete, Louisiana",
+    "geocoded": true
+  },
+  "194": {
+    "lat": 30.0840466540992,
+    "lon": -90.4265160910033,
+    "geocoded": false
+  },
+  "195": {
+    "lat": 30.418617879235,
+    "lon": -91.434569140633,
+    "address": "I-10 W & LA-77, Grosse Tete, Louisiana, 70740",
+    "geocoded": true
+  },
+  "196": {
+    "lat": 30.247592311468,
+    "lon": -92.19309072578,
+    "address": "I-10 E & LA-95, Duson, Louisiana, 70529",
+    "geocoded": true
+  },
+  "197": {
+    "lat": 30.427137119894,
+    "lon": -91.168612861619,
+    "address": "I-10 W & Dalrymple Dr, Baton Rouge, Louisiana, 70802",
+    "geocoded": true
+  },
+  "198": {
+    "lat": 30.460191993257,
+    "lon": -91.008332013622,
+    "address": "O'Neal Ln & Old Hammond Hwy, Baton Rouge, Louisiana, 70816",
+    "geocoded": true
+  },
+  "199": {
+    "lat": 30.463228002406,
+    "lon": -91.211195025226,
+    "address": "LA-415 & LA-1, Port Allen, Louisiana, 70767",
+    "geocoded": true
+  },
+  "200": {
+    "lat": 30.39047,
+    "lon": -90.770096,
+    "address": "Colyell, Louisiana",
+    "geocoded": true
+  },
+  "201": {
+    "lat": 30.323483990656,
+    "lon": -89.785993960586,
+    "address": "10th St & Slidell Ave, Slidell, Louisiana, 70460",
+    "geocoded": true
+  },
+  "202": {
+    "lat": 30.3232494201656,
+    "lon": -89.737601919589,
+    "geocoded": false
+  },
+  "203": {
+    "lat": 30.0778074325478,
+    "lon": -90.405239525906,
+    "geocoded": false
+  },
+  "204": {
+    "lat": 29.963203011995,
+    "lon": -90.159529033191,
+    "address": "US-90 W & Claiborne Ct, New Orleans, Louisiana, 70121",
+    "geocoded": true
+  },
+  "205": {
+    "lat": 30.324495393003,
+    "lon": -91.78928499659,
+    "address": "I-10 W & N Henderson Levee Rd, Breaux Bridge, Louisiana, 70517",
+    "geocoded": true
+  },
+  "206": {
+    "lat": 30.2791071460734,
+    "lon": -91.95602,
+    "geocoded": false
+  },
+  "207": {
+    "lat": 30.244640414717,
+    "lon": -93.129404128124,
+    "address": "I-10 W & LA-397, Lake Charles, Louisiana, 70615",
+    "geocoded": true
+  },
+  "208": {
+    "lat": 30.245708198278,
+    "lon": -93.1620476444336,
+    "geocoded": false
+  },
+  "209": {
+    "lat": 30.300484402111,
+    "lon": -93.21204913661,
+    "address": "10 Fruge St, Lake Charles, Louisiana, 70611",
+    "geocoded": true
+  },
+  "210": {
+    "lat": 30.236297990305,
+    "lon": -93.204380000571,
+    "address": "Interstate 10 & Enterprise Blvd, Lake Charles, Louisiana, 70601",
+    "geocoded": true
+  },
+  "211": {
+    "lat": 30.235920008382,
+    "lon": -93.21688999106,
+    "address": "I-10 W & Ryan St, Lake Charles, Louisiana, 70601",
+    "geocoded": true
+  },
+  "212": {
+    "lat": 30.215764508072,
+    "lon": -93.334525093005,
+    "address": "I-10 E & Calcasieu Industrial Dr, Sulphur, Louisiana, 70665",
+    "geocoded": true
+  },
+  "213": {
+    "lat": 30.237069418764,
+    "lon": -93.257605421011,
+    "address": "I-10 W & LA-378, Westlake, Louisiana, 70669",
+    "geocoded": true
+  },
+  "214": {
+    "lat": 30.236576018034,
+    "lon": -93.192570234273,
+    "address": "Interstate 10 & US Highway 90, Lake Charles, Louisiana, 70601",
+    "geocoded": true
+  },
+  "215": {
+    "lat": 30.070712237214,
+    "lon": -93.341044872921,
+    "address": "Interstate 10, Lake Charles, Louisiana, 70605",
+    "geocoded": true
+  },
+  "216": {
+    "lat": 30.237923917301,
+    "lon": -93.19307170629,
+    "address": "10 Prater St, Lake Charles, Louisiana, 70601",
+    "geocoded": true
+  },
+  "217": {
+    "lat": 30.216254219514,
+    "lon": -93.325543512276,
+    "address": "I-10 W & LA-108, Sulphur, Louisiana, 70663",
+    "geocoded": true
+  },
+  "218": {
+    "lat": 30.216001002219,
+    "lon": -93.358613975979,
+    "address": "I-10 W & LA-27, Sulphur, Louisiana, 70663",
+    "geocoded": true
+  },
+  "219": {
+    "lat": 30.215846020829,
+    "lon": -93.376359387011,
+    "address": "I-10 W & Ruth St, Sulphur, Louisiana, 70663",
+    "geocoded": true
+  },
+  "220": {
+    "lat": 29.922761353287,
+    "lon": -90.036448697302,
+    "address": "90 Terry Pkwy, Terrytown, Louisiana, 70056",
+    "geocoded": true
+  },
+  "221": {
+    "lat": 29.9292030509628,
+    "lon": -90.038063679996,
+    "geocoded": false
+  },
+  "222": {
+    "lat": 29.90932698823,
+    "lon": -90.057889991467,
+    "address": "Westbank Expy & Newton St, Gretna, Louisiana, 70053",
+    "geocoded": true
+  },
+  "223": {
+    "lat": 29.8971005622346,
+    "lon": -90.0831179113484,
+    "geocoded": false
+  },
+  "224": {
+    "lat": 29.938923760141,
+    "lon": -90.0571154214299,
+    "geocoded": false
+  },
+  "225": {
+    "lat": 30.016414,
+    "lon": -90.249478,
+    "address": "Avenue",
+    "geocoded": true
+  },
+  "226": {
+    "lat": 29.9097399215013,
+    "lon": -90.0562062254918,
+    "geocoded": false
+  },
+  "227": {
+    "lat": 29.938924200804,
+    "lon": -90.050565633015,
+    "address": "US-90 Bus W & LA-428, New Orleans, Louisiana, 70114",
+    "geocoded": true
+  },
+  "228": {
+    "lat": 30.14298,
+    "lon": -89.88451,
+    "address": "South Shore, City of New Orleans, Louisiana",
+    "geocoded": true
+  },
+  "229": {
+    "lat": 30.169801,
+    "lon": -89.837021,
+    "geocoded": false
+  },
+  "230": {
+    "lat": 30.185375,
+    "lon": -89.820483,
+    "geocoded": false
+  },
+  "231": {
+    "lat": 30.217768,
+    "lon": -89.819372,
+    "address": "North Shore, Louisiana",
+    "geocoded": true
+  },
+  "232": {
+    "lat": 29.2696,
+    "lon": -90.2211,
+    "geocoded": false
+  },
+  "233": {
+    "lat": 29.258909,
+    "lon": -90.2158,
+    "geocoded": false
+  },
+  "236": {
+    "lat": 30.41429600232,
+    "lon": -91.224474977341,
+    "address": "LA-1 & American Way, Port Allen, Louisiana, 70767",
+    "geocoded": true
+  },
+  "237": {
+    "lat": 32.56844499268,
+    "lon": -92.074071975459,
+    "address": "US-165 S & Finks Hideaway Ext, Monroe, Louisiana, 71203",
+    "geocoded": true
+  },
+  "238": {
+    "lat": 32.520118888076,
+    "lon": -92.131513851117,
+    "address": "165 Forsythe Ave, Monroe, Louisiana, 71201",
+    "geocoded": true
+  },
+  "239": {
+    "lat": 32.531494236196,
+    "lon": -92.081789149641,
+    "address": "Ferrand St, Monroe, Louisiana, 71201",
+    "geocoded": true
+  },
+  "240": {
+    "lat": 32.5136700098,
+    "lon": -92.080764003136,
+    "address": "US-165 S & Renwick St, Monroe, Louisiana, 71203",
+    "geocoded": true
+  },
+  "241": {
+    "lat": 32.482581489013,
+    "lon": -92.083098279351,
+    "address": "US-165 S & Winnsboro Rd, Monroe, Louisiana, 71202",
+    "geocoded": true
+  },
+  "242": {
+    "lat": 32.410327406016,
+    "lon": -92.105059364348,
+    "address": "Highway 165, Monroe, Louisiana, 71202",
+    "geocoded": true
+  },
+  "243": {
+    "lat": 30.06002099256,
+    "lon": -89.939459986025,
+    "address": "I-10 W & Paris Rd S, New Orleans, Louisiana, 70128",
+    "geocoded": true
+  },
+  "244": {
+    "lat": 29.990163379399,
+    "lon": -90.115918721691,
+    "address": "I-10 W & Mound Ave, New Orleans, Louisiana, 70124",
+    "geocoded": true
+  },
+  "245": {
+    "lat": 29.968046997659,
+    "lon": -90.107622002302,
+    "address": "I-10 W & S Carrollton Ave, New Orleans, Louisiana, 70119",
+    "geocoded": true
+  },
+  "246": {
+    "lat": 29.970207831343,
+    "lon": -90.109680346264,
+    "address": "I-10 E & Airline Hwy, New Orleans, Louisiana, 70119",
+    "geocoded": true
+  },
+  "247": {
+    "lat": 29.975256697933,
+    "lon": -90.090370389665,
+    "address": "N Jefferson Davis Pkwy, New Orleans, Louisiana, 70119",
+    "geocoded": true
+  },
+  "248": {
+    "lat": 29.95965195,
+    "lon": -90.0966568,
+    "geocoded": false
+  },
+  "249": {
+    "lat": 29.959162971678,
+    "lon": -90.159764567554,
+    "address": "90 Claiborne Ct, New Orleans, Louisiana, 70121",
+    "geocoded": true
+  },
+  "250": {
+    "lat": 29.964292994684,
+    "lon": -90.073304981959,
+    "address": "I-10 W & Orleans Ave, New Orleans, Louisiana, 70116",
+    "geocoded": true
+  },
+  "261": {
+    "lat": 29.973150696593,
+    "lon": -90.06539950616,
+    "address": "I-10 W & N Claiborne Ave, New Orleans, Louisiana, 70116",
+    "geocoded": true
+  },
+  "265": {
+    "lat": 29.9802859174,
+    "lon": -90.058165588443,
+    "address": "I-10 W & Elysian Fields Ave, New Orleans, Louisiana, 70119",
+    "geocoded": true
+  },
+  "266": {
+    "lat": 30.01131,
+    "lon": -90.12202,
+    "address": "17th Street Canal",
+    "geocoded": true
+  },
+  "267": {
+    "lat": 30.0028292657005,
+    "lon": -90.035362,
+    "geocoded": false
+  },
+  "269": {
+    "lat": 30.010844701906,
+    "lon": -90.013186619623,
+    "address": "I-10 W & Chef Menteur Hwy, New Orleans, Louisiana, 70126",
+    "geocoded": true
+  },
+  "270": {
+    "lat": 30.222109020791,
+    "lon": -89.783394983869,
+    "address": "I-10 W & Oak Harbor Blvd, Slidell, Louisiana, 70458",
+    "geocoded": true
+  },
+  "271": {
+    "lat": 30.247772019472,
+    "lon": -89.763574967982,
+    "address": "I-10 W & Old Spanish Trl, Slidell, Louisiana, 70458",
+    "geocoded": true
+  },
+  "272": {
+    "lat": 30.284704989886,
+    "lon": -89.749826970394,
+    "address": "I-10 W & US-190 E, Slidell, Louisiana, 70458",
+    "geocoded": true
+  },
+  "273": {
+    "lat": 30.3038791115017,
+    "lon": -89.739222375882,
+    "geocoded": false
+  },
+  "274": {
+    "lat": 31.317566014509,
+    "lon": -92.47018697321,
+    "address": "N Bolton Ave & US-71 S, Alexandria, Louisiana, 71301",
+    "geocoded": true
+  },
+  "275": {
+    "lat": 31.300065983692,
+    "lon": -92.479722980633,
+    "address": "US-71 N & LA-28, Alexandria, Louisiana, 71303",
+    "geocoded": true
+  },
+  "276": {
+    "lat": 31.295405896984,
+    "lon": -92.499086015159,
+    "address": "LA-28 & John Eskew Dr, Alexandria, Louisiana, 71303",
+    "geocoded": true
+  },
+  "277": {
+    "lat": 31.286772,
+    "lon": -92.47488,
+    "geocoded": false
+  },
+  "278": {
+    "lat": 31.273086020384,
+    "lon": -92.469026833991,
+    "address": "US-71 S & Masonic Cir, Alexandria, Louisiana, 71301",
+    "geocoded": true
+  },
+  "279": {
+    "lat": 31.273086020384,
+    "lon": -92.469026833991,
+    "address": "US-71 S & Masonic Cir, Alexandria, Louisiana, 71301",
+    "geocoded": true
+  },
+  "280": {
+    "lat": 31.273086020384,
+    "lon": -92.469026833991,
+    "address": "US-71 S & Masonic Cir, Alexandria, Louisiana, 71301",
+    "geocoded": true
+  },
+  "281": {
+    "lat": 31.261945800512,
+    "lon": -92.448994169221,
+    "address": "US-71 N & Lee St, Alexandria, Louisiana, 71302",
+    "geocoded": true
+  },
+  "282": {
+    "lat": 31.252772980953,
+    "lon": -92.438215041737,
+    "address": "US-71 N & LA-3250, Alexandria, Louisiana, 71302",
+    "geocoded": true
+  },
+  "283": {
+    "lat": 30.2984104477655,
+    "lon": -89.7131295433455,
+    "geocoded": false
+  },
+  "284": {
+    "lat": 30.443613007871,
+    "lon": -91.17882000803,
+    "address": "I-110 S & Government St, Baton Rouge, Louisiana, 70802",
+    "geocoded": true
+  },
+  "285": {
+    "lat": 30.458977,
+    "lon": -91.180639,
+    "address": "Governor's Mansion",
+    "geocoded": true
+  },
+  "286": {
+    "lat": 30.459153014449,
+    "lon": -91.166287973135,
+    "address": "I-110 S & N 22nd St, Baton Rouge, Louisiana, 70802",
+    "geocoded": true
+  },
+  "287": {
+    "lat": 30.47320200618,
+    "lon": -91.167084170118,
+    "address": "I-110 S & Chippewa St, Baton Rouge, Louisiana, 70805",
+    "geocoded": true
+  },
+  "288": {
+    "lat": 30.508891018344,
+    "lon": -91.158687011878,
+    "address": "I-110 S & US-61 S, Baton Rouge, Louisiana, 70805",
+    "geocoded": true
+  },
+  "289": {
+    "lat": 30.514766983928,
+    "lon": -91.158961016293,
+    "address": "I-110 S & 72nd Ave, Baton Rouge, Louisiana, 70807",
+    "geocoded": true
+  },
+  "290": {
+    "lat": 30.4178512892951,
+    "lon": -91.1056382017972,
+    "geocoded": false
+  },
+  "291": {
+    "lat": 30.41723151245,
+    "lon": -91.097663990733,
+    "address": "I-12 W & Essen Ln, Baton Rouge, Louisiana, 70809",
+    "geocoded": true
+  },
+  "292": {
+    "lat": 30.41786350795,
+    "lon": -91.089580315673,
+    "address": "I-12 W & Drusilla Ln, Baton Rouge, Louisiana, 70809",
+    "geocoded": true
+  },
+  "293": {
+    "lat": 30.4302279886,
+    "lon": -91.056553018771,
+    "address": "I-12 W & S Sherwood Forest Blvd, Baton Rouge, Louisiana, 70816",
+    "geocoded": true
+  },
+  "294": {
+    "lat": 30.427675865021,
+    "lon": -91.066103499712,
+    "address": "I-12 W, Baton Rouge, Louisiana, 70816",
+    "geocoded": true
+  },
+  "295": {
+    "lat": 30.42386348379,
+    "lon": -91.07520593846,
+    "address": "I-12 W & Airline Hwy, Baton Rouge, Louisiana, 70809",
+    "geocoded": true
+  },
+  "296": {
+    "lat": 30.438291002269,
+    "lon": -91.024362990178,
+    "address": "I-12 W & Millerville Rd, Baton Rouge, Louisiana, 70816",
+    "geocoded": true
+  },
+  "297": {
+    "lat": 30.44249901103,
+    "lon": -91.007590969562,
+    "address": "I-12 W & O'Neal Ln, Baton Rouge, Louisiana, 70816",
+    "geocoded": true
+  },
+  "298": {
+    "lat": 30.451801289083,
+    "lon": -90.969678280395,
+    "address": "I-12 W & 4H Club Rd, Denham Springs, Louisiana, 70726",
+    "geocoded": true
+  },
+  "299": {
+    "lat": 30.455054012339,
+    "lon": -90.956561021021,
+    "address": "I-12 W & S Range Ave, Denham Springs, Louisiana, 70726",
+    "geocoded": true
+  },
+  "300": {
+    "lat": 30.464652003937,
+    "lon": -90.917804022747,
+    "address": "I-12 W & Juban Rd, Denham Springs, Louisiana, 70726",
+    "geocoded": true
+  },
+  "301": {
+    "lat": 30.471054862213,
+    "lon": -90.856480859638,
+    "address": "I-12 W, Walker, Louisiana, 70785",
+    "geocoded": true
+  },
+  "302": {
+    "lat": 30.702103132502,
+    "lon": -90.532868069459,
+    "address": "I-55 S, Amite, Louisiana, 70422",
+    "geocoded": true
+  },
+  "303": {
+    "lat": 30.47885731,
+    "lon": -90.48942909,
+    "geocoded": false
+  },
+  "304": {
+    "lat": 30.186285754422,
+    "lon": -90.442119643757,
+    "address": "I-55 S, LA Place, Louisiana, 70068",
+    "geocoded": true
+  },
+  "305": {
+    "lat": 30.504143995599,
+    "lon": -90.461131615438,
+    "address": "12 US-190 W, Hammond, Louisiana, 70401",
+    "geocoded": true
+  },
+  "306": {
+    "lat": 30.425290166701,
+    "lon": -90.0690424155671,
+    "geocoded": false
+  },
+  "307": {
+    "lat": 30.42929998619,
+    "lon": -90.084834038319,
+    "address": "I-12 W & Highway 190, Covington, Louisiana, 70433",
+    "geocoded": true
+  },
+  "308": {
+    "lat": 30.07490643571,
+    "lon": -89.861950886205,
+    "address": "12 US-11 N, New Orleans, Louisiana, 70129",
+    "geocoded": true
+  },
+  "309": {
+    "lat": 30.30682945,
+    "lon": -89.74169922,
+    "geocoded": false
+  },
+  "310": {
+    "lat": 32.450749996328,
+    "lon": -93.865661031504,
+    "address": "I-20 W & Pines Rd, Shreveport, Louisiana, 71119",
+    "geocoded": true
+  },
+  "311": {
+    "lat": 32.447552384086,
+    "lon": -93.899206078564,
+    "address": "I-20 W & W Bert Kouns Industrial Loop, Shreveport, Louisiana, 71119",
+    "geocoded": true
+  },
+  "312": {
+    "lat": 29.996019336822,
+    "lon": -90.115252718107,
+    "address": "I-610 W & W End Blvd, New Orleans, Louisiana, 70124",
+    "geocoded": true
+  },
+  "313": {
+    "lat": 30.19283099109,
+    "lon": -90.920327981431,
+    "address": "I-10 W & LA-44, Gonzales, Louisiana, 70737",
+    "geocoded": true
+  },
+  "314": {
+    "lat": 30.166431013572,
+    "lon": -90.88122271508,
+    "address": "LA-22 & LA-70, Sorrento, Louisiana, 70778",
+    "geocoded": true
+  },
+  "315": {
+    "lat": 30.246622986275,
+    "lon": -93.180516973688,
+    "address": "I-10 W & US-171 S, Lake Charles, Louisiana, 70601",
+    "geocoded": true
+  },
+  "316": {
+    "lat": 30.247077285427,
+    "lon": -92.066295329512,
+    "address": "I-10 W & Ambassador Caffery Pkwy, Scott, Louisiana, 70583",
+    "geocoded": true
+  },
+  "317": {
+    "lat": 30.25916297,
+    "lon": -92.01621057,
+    "geocoded": false
+  },
+  "318": {
+    "lat": 30.26761055,
+    "lon": -91.99458313,
+    "geocoded": false
+  },
+  "319": {
+    "lat": 30.327973143875,
+    "lon": -91.776518805498,
+    "address": "I-10 W, Breaux Bridge, Louisiana, 70517",
+    "geocoded": true
+  },
+  "320": {
+    "lat": 30.315561709141,
+    "lon": -91.831062832769,
+    "address": "I-10 W & LA-347, Breaux Bridge, Louisiana, 70517",
+    "geocoded": true
+  },
+  "321": {
+    "lat": 30.3320754829659,
+    "lon": -91.75952911,
+    "geocoded": false
+  },
+  "322": {
+    "lat": 30.185846167,
+    "lon": -91.42642,
+    "address": "Louisiana",
+    "geocoded": true
+  },
+  "323": {
+    "lat": 30.452821774156,
+    "lon": -91.27862966286,
+    "address": "Interstate 10, Port Allen, Louisiana, 70767",
+    "geocoded": true
+  },
+  "324": {
+    "lat": 30.185846167,
+    "lon": -91.42642,
+    "address": "Louisiana",
+    "geocoded": true
+  },
+  "325": {
+    "lat": 30.400630985573,
+    "lon": -91.508352016801,
+    "address": "I-10 W & Ramah Rd, Maringouin, Louisiana, 70757",
+    "geocoded": true
+  },
+  "326": {
+    "lat": 30.381929570626,
+    "lon": -91.57768987411,
+    "address": "I-10 W, Grosse Tete, Louisiana, 70740",
+    "geocoded": true
+  },
+  "327": {
+    "lat": 30.447485991962,
+    "lon": -91.244399012646,
+    "address": "I-10 W & LA-415, Port Allen, Louisiana, 70767",
+    "geocoded": true
+  },
+  "328": {
+    "lat": 30.440200986546,
+    "lon": -91.208636030186,
+    "address": "I-10 W & LA-1, Port Allen, Louisiana, 70767",
+    "geocoded": true
+  },
+  "329": {
+    "lat": 30.439066998865,
+    "lon": -91.187754027167,
+    "address": "I-10 W & Nicholson Dr, Baton Rouge, Louisiana, 70802",
+    "geocoded": true
+  },
+  "330": {
+    "lat": 30.438720784354,
+    "lon": -91.178430081894,
+    "address": "I-10 W & I-110 S, Baton Rouge, Louisiana, 70802",
+    "geocoded": true
+  },
+  "331": {
+    "lat": 30.43124429436,
+    "lon": -91.174392770591,
+    "address": "I-10 W & E Washington St, Baton Rouge, Louisiana, 70802",
+    "geocoded": true
+  },
+  "332": {
+    "lat": 30.425034980488,
+    "lon": -91.158467992748,
+    "address": "I-10 W & Perkins Rd, Baton Rouge, Louisiana, 70808",
+    "geocoded": true
+  },
+  "333": {
+    "lat": 30.424248003598,
+    "lon": -91.150998040638,
+    "address": "I-10 W & S Acadian Trwy, Baton Rouge, Louisiana, 70808",
+    "geocoded": true
+  },
+  "334": {
+    "lat": 30.423037782508,
+    "lon": -91.139393714787,
+    "address": "I-10 W & College Dr, Baton Rouge, Louisiana, 70808",
+    "geocoded": true
+  },
+  "335": {
+    "lat": 30.452821774156,
+    "lon": -91.27862966286,
+    "address": "Interstate 10, Port Allen, Louisiana, 70767",
+    "geocoded": true
+  },
+  "336": {
+    "lat": 30.408061081734,
+    "lon": -91.10191822569,
+    "address": "I-10 W & Essen Ln, Baton Rouge, Louisiana, 70808",
+    "geocoded": true
+  },
+  "337": {
+    "lat": 30.533590014341,
+    "lon": -91.407984509788,
+    "address": "US-190 E & LA-413, Port Allen, Louisiana, 70767",
+    "geocoded": true
+  },
+  "338": {
+    "lat": 30.554688982924,
+    "lon": -91.557336026597,
+    "address": "US-190 E & LA-411, Livonia, Louisiana, 70755",
+    "geocoded": true
+  },
+  "339": {
+    "lat": 30.395105383543,
+    "lon": -91.085974504746,
+    "address": "I-10 E & Bluebonnet Blvd, Baton Rouge, Louisiana, 70809",
+    "geocoded": true
+  },
+  "340": {
+    "lat": 30.390368518601,
+    "lon": -91.078376309517,
+    "address": "I-10 W & Picardy Ave, Baton Rouge, Louisiana, 70809",
+    "geocoded": true
+  },
+  "341": {
+    "lat": 30.382441920406,
+    "lon": -91.066048373965,
+    "address": "I-10 W & Siegen Ln, Baton Rouge, Louisiana, 70809",
+    "geocoded": true
+  },
+  "342": {
+    "lat": 30.5064570813,
+    "lon": -91.204401241245,
+    "address": "US-190 E & LA-415, Port Allen, Louisiana, 70767",
+    "geocoded": true
+  },
+  "344": {
+    "lat": 30.323304995114,
+    "lon": -91.006808015987,
+    "address": "I-10 W & Bluff Rd, Prairieville, Louisiana, 70769",
+    "geocoded": true
+  },
+  "345": {
+    "lat": 30.171934990292,
+    "lon": -90.876708976401,
+    "address": "I-10 W & LA-22, Sorrento, Louisiana, 70778",
+    "geocoded": true
+  },
+  "346": {
+    "lat": 30.153673295935,
+    "lon": -90.80616486762,
+    "address": "I-10 W & Highway 61, Saint Amant, Louisiana, 70774",
+    "geocoded": true
+  },
+  "347": {
+    "lat": 30.095473699914,
+    "lon": -90.46555873875,
+    "address": "I-10 W, LA Place, Louisiana, 70068",
+    "geocoded": true
+  },
+  "348": {
+    "lat": 30.08861099374,
+    "lon": -90.441411012058,
+    "address": "I-10 W & US-51 N, LA Place, Louisiana, 70068",
+    "geocoded": true
+  },
+  "349": {
+    "lat": 30.06802,
+    "lon": -90.3897,
+    "geocoded": false
+  },
+  "350": {
+    "lat": 30.05645943,
+    "lon": -90.37249756,
+    "geocoded": false
+  },
+  "351": {
+    "lat": 30.04453087,
+    "lon": -90.3559108337066,
+    "geocoded": false
+  },
+  "352": {
+    "lat": 30.0320957237701,
+    "lon": -90.3375259160601,
+    "geocoded": false
+  },
+  "353": {
+    "lat": 30.01773071,
+    "lon": -90.316444060294,
+    "geocoded": false
+  },
+  "354": {
+    "lat": 30.0064210937083,
+    "lon": -90.29219818,
+    "geocoded": false
+  },
+  "355": {
+    "lat": 30.007817200389,
+    "lon": -90.266396789936,
+    "address": "I-10 W & Loyola Dr, Kenner, Louisiana, 70062",
+    "geocoded": true
+  },
+  "356": {
+    "lat": 30.009504016493,
+    "lon": -90.240284982249,
+    "address": "I-10 W & Williams Blvd, Kenner, Louisiana, 70062",
+    "geocoded": true
+  },
+  "357": {
+    "lat": 30.008282018829,
+    "lon": -90.221499963767,
+    "address": "I-10 W & Power Blvd, Metairie, Louisiana, 70003",
+    "geocoded": true
+  },
+  "358": {
+    "lat": 30.005374210889,
+    "lon": -90.208352361903,
+    "address": "I-10 W & Veterans Blvd, Metairie, Louisiana, 70003",
+    "geocoded": true
+  },
+  "359": {
+    "lat": 29.999186983332,
+    "lon": -90.184396966446,
+    "address": "I-10 W & Clearview Pkwy, Metairie, Louisiana, 70001",
+    "geocoded": true
+  },
+  "360": {
+    "lat": 29.99760121107,
+    "lon": -90.155536732709,
+    "address": "I-10 W & N Causeway Blvd, Metairie, Louisiana, 70002",
+    "geocoded": true
+  },
+  "361": {
+    "lat": 29.99760121107,
+    "lon": -90.155536732709,
+    "address": "I-10 W & N Causeway Blvd, Metairie, Louisiana, 70002",
+    "geocoded": true
+  },
+  "362": {
+    "lat": 29.997086017391,
+    "lon": -90.143064041689,
+    "address": "I-10 W & Bonnabel Blvd, Metairie, Louisiana, 70005",
+    "geocoded": true
+  },
+  "363": {
+    "lat": 29.992385110814,
+    "lon": -90.049540693895,
+    "address": "I-610 W & Franklin Ave, New Orleans, Louisiana, 70122",
+    "geocoded": true
+  },
+  "364": {
+    "lat": 30.19584286351,
+    "lon": -93.267249847664,
+    "address": "I-210 W & Cove Ln, Lake Charles, Louisiana, 70601",
+    "geocoded": true
+  },
+  "365": {
+    "lat": 30.249543995713,
+    "lon": -93.013771918143,
+    "address": "I-10 W & N Thomson Ave, Iowa, Louisiana, 70647",
+    "geocoded": true
+  },
+  "366": {
+    "lat": 30.19815100599,
+    "lon": -93.173901472787,
+    "address": "I-210 E & Prien Lake Rd, Lake Charles, Louisiana, 70615",
+    "geocoded": true
+  },
+  "367": {
+    "lat": 30.196683984341,
+    "lon": -93.249395011575,
+    "address": "I-210 E & Nelson Rd, Lake Charles, Louisiana, 70605",
+    "geocoded": true
+  },
+  "368": {
+    "lat": 30.197093901316,
+    "lon": -93.232421406187,
+    "address": "I-210 W & Lake St, Lake Charles, Louisiana, 70601",
+    "geocoded": true
+  },
+  "369": {
+    "lat": 30.197124998177,
+    "lon": -93.218725041123,
+    "address": "I-210 W & Ryan St, Lake Charles, Louisiana, 70601",
+    "geocoded": true
+  },
+  "370": {
+    "lat": 30.196848018187,
+    "lon": -93.204372959772,
+    "address": "I-210 E & Enterprise Blvd, Lake Charles, Louisiana, 70601",
+    "geocoded": true
+  },
+  "371": {
+    "lat": 30.197547990921,
+    "lon": -93.180196030615,
+    "address": "I-210 W & LA-14, Lake Charles, Louisiana, 70601",
+    "geocoded": true
+  },
+  "372": {
+    "lat": 30.26409,
+    "lon": -93.17182,
+    "address": "Kayouche Coulee",
+    "geocoded": true
+  },
+  "373": {
+    "lat": 30.227559981974,
+    "lon": -93.16834703701,
+    "address": "I-210 E & Broad St, Lake Charles, Louisiana, 70615",
+    "geocoded": true
+  },
+  "374": {
+    "lat": 30.48134720441,
+    "lon": -90.956084258368,
+    "address": "US-190 E & S Range Ave, Denham Springs, Louisiana, 70726",
+    "geocoded": true
+  },
+  "375": {
+    "lat": 30.446944018103,
+    "lon": -90.140417958675,
+    "address": "I-12 W & LA-21, Covington, Louisiana, 70433",
+    "geocoded": true
+  },
+  "376": {
+    "lat": 30.48690398712,
+    "lon": -90.956189032158,
+    "address": "N Range Ave & Centerville St NE, Denham Springs, Louisiana, 70726",
+    "geocoded": true
+  },
+  "377": {
+    "lat": 30.446944018103,
+    "lon": -90.140417958675,
+    "address": "I-12 W & LA-21, Covington, Louisiana, 70433",
+    "geocoded": true
+  },
+  "380": {
+    "lat": 30.41429600232,
+    "lon": -91.224474977341,
+    "address": "LA-1 & American Way, Port Allen, Louisiana, 70767",
+    "geocoded": true
+  },
+  "382": {
+    "lat": 30.236476608662,
+    "lon": -92.601291673538,
+    "address": "I-10 W & Riverside Rd, Jennings, Louisiana, 70546",
+    "geocoded": true
+  },
+  "383": {
+    "lat": 30.236212706345,
+    "lon": -92.434898153929,
+    "address": "I-10 W & Egan Hwy, Crowley, Louisiana, 70526",
+    "geocoded": true
+  },
+  "384": {
+    "lat": 30.233852695783,
+    "lon": -92.464120319329,
+    "address": "I-10 W & LA-91, Crowley, Louisiana, 70526",
+    "geocoded": true
+  },
+  "385": {
+    "lat": 30.247077285427,
+    "lon": -92.066295329512,
+    "address": "I-10 W & LA-3184, Scott, Louisiana, 70583",
+    "geocoded": true
+  },
+  "386": {
+    "lat": 30.25133960892,
+    "lon": -92.03618116306,
+    "address": "I-10 W & LA-182, Lafayette, Louisiana, 70501",
+    "geocoded": true
+  },
+  "387": {
+    "lat": 30.235753795242,
+    "lon": -92.385568978444,
+    "address": "I-10 W & LA-13, Crowley, Louisiana, 70526",
+    "geocoded": true
+  },
+  "388": {
+    "lat": 30.252465717612,
+    "lon": -92.269739626101,
+    "address": "I-10 W & LA-98, Rayne, Louisiana, 70578",
+    "geocoded": true
+  },
+  "389": {
+    "lat": 30.247341985929,
+    "lon": -92.107724981433,
+    "address": "I-10 W & LA-93, Scott, Louisiana, 70583",
+    "geocoded": true
+  },
+  "390": {
+    "lat": 30.246688281301,
+    "lon": -92.929124838174,
+    "address": "I-10 W & LA-101, Iowa, Louisiana, 70647",
+    "geocoded": true
+  },
+  "391": {
+    "lat": 30.246993298757,
+    "lon": -92.821665402884,
+    "address": "I-10 W & LA-99, Welsh, Louisiana, 70591",
+    "geocoded": true
+  },
+  "392": {
+    "lat": 30.247879098285,
+    "lon": -92.740520282062,
+    "address": "I-10 W & LA-395, Roanoke, Louisiana, 70581",
+    "geocoded": true
+  },
+  "393": {
+    "lat": 30.246789199415,
+    "lon": -92.663603328477,
+    "address": "I-10 W & LA-26, Jennings, Louisiana, 70546",
+    "geocoded": true
+  },
+  "394": {
+    "lat": 30.243008919173,
+    "lon": -92.6316058322,
+    "address": "I-10 W & LA-97, Jennings, Louisiana, 70546",
+    "geocoded": true
+  },
+  "395": {
+    "lat": 30.481768604592,
+    "lon": -91.166193425267,
+    "address": "I-110 S & Wyandotte St, Baton Rouge, Louisiana, 70805",
+    "geocoded": true
+  },
+  "396": {
+    "lat": 30.492094983576,
+    "lon": -91.163858227042,
+    "address": "I-110 S & Evangeline St, Baton Rouge, Louisiana, 70805",
+    "geocoded": true
+  },
+  "397": {
+    "lat": 30.527785211116,
+    "lon": -91.165630077555,
+    "address": "I-110 S & Wilbur St, Baton Rouge, Louisiana, 70807",
+    "geocoded": true
+  },
+  "398": {
+    "lat": 30.458977,
+    "lon": -91.180639,
+    "address": "Governor's Mansion",
+    "geocoded": true
+  },
+  "399": {
+    "lat": 30.459153014449,
+    "lon": -91.166287973135,
+    "address": "I-110 S & N 22nd St, Baton Rouge, Louisiana, 70802",
+    "geocoded": true
+  },
+  "400": {
+    "lat": 30.449533313722,
+    "lon": -91.180556822187,
+    "address": "I-110 S & Florida St, Baton Rouge, Louisiana, 70802",
+    "geocoded": true
+  },
+  "401": {
+    "lat": 30.443613007871,
+    "lon": -91.17882000803,
+    "address": "I-110 S & Government St, Baton Rouge, Louisiana, 70802",
+    "geocoded": true
+  },
+  "402": {
+    "lat": 30.535997003566,
+    "lon": -91.1782719992,
+    "address": "I-110 S & LA-19, Baton Rouge, Louisiana, 70807",
+    "geocoded": true
+  },
+  "403": {
+    "lat": 30.508891018344,
+    "lon": -91.158687011878,
+    "address": "I-110 S & US-61 S, Baton Rouge, Louisiana, 70805",
+    "geocoded": true
+  },
+  "404": {
+    "lat": 32.516695272149,
+    "lon": -93.71688771535,
+    "address": "20 Benton Rd, Bossier City, Louisiana, 71111",
+    "geocoded": true
+  },
+  "405": {
+    "lat": 32.4656,
+    "lon": -93.816,
+    "geocoded": false
+  },
+  "406": {
+    "lat": 32.49489,
+    "lon": -93.76499,
+    "geocoded": false
+  },
+  "407": {
+    "lat": 32.447778,
+    "lon": -93.898611,
+    "geocoded": false
+  },
+  "408": {
+    "lat": 32.456354094882,
+    "lon": -93.844478621075,
+    "address": "I-20 W & I-220 E, Shreveport, Louisiana, 71109",
+    "geocoded": true
+  },
+  "409": {
+    "lat": 30.452821774156,
+    "lon": -91.27862966286,
+    "address": "Interstate 10, Port Allen, Louisiana, 70767",
+    "geocoded": true
+  },
+  "410": {
+    "lat": 30.452821774156,
+    "lon": -91.27862966286,
+    "address": "Interstate 10, Port Allen, Louisiana, 70767",
+    "geocoded": true
+  },
+  "411": {
+    "lat": 30.452821774156,
+    "lon": -91.27862966286,
+    "address": "Interstate 10, Port Allen, Louisiana, 70767",
+    "geocoded": true
+  },
+  "412": {
+    "lat": 30.452821774156,
+    "lon": -91.27862966286,
+    "address": "Interstate 10, Port Allen, Louisiana, 70767",
+    "geocoded": true
+  },
+  "413": {
+    "lat": 30.451696554194,
+    "lon": -91.30302339296,
+    "address": "I-10 E, Port Allen, Louisiana, 70767",
+    "geocoded": true
+  },
+  "414": {
+    "lat": 30.400630985573,
+    "lon": -91.508352016801,
+    "address": "I-10 W & Ramah Rd, Maringouin, Louisiana, 70757",
+    "geocoded": true
+  },
+  "415": {
+    "lat": 30.546328788878,
+    "lon": -91.963439067809,
+    "address": "Highway 190 & Saizan Ave, Port Barre, Louisiana, 70577",
+    "geocoded": true
+  },
+  "416": {
+    "lat": 30.340041015456,
+    "lon": -91.260517999185,
+    "address": "LA-1 & Sid Richardson Rd, Addis, Louisiana, 70710",
+    "geocoded": true
+  },
+  "417": {
+    "lat": 30.17255,
+    "lon": -90.79737,
+    "address": "Old New River",
+    "geocoded": true
+  },
+  "418": {
+    "lat": 30.21131,
+    "lon": -90.59315,
+    "address": "Blind River",
+    "geocoded": true
+  },
+  "419": {
+    "lat": 30.123526984883,
+    "lon": -90.681798965988,
+    "address": "I-10 W & LA-641, Gramercy, Louisiana, 70052",
+    "geocoded": true
+  },
+  "421": {
+    "lat": 30.119984,
+    "lon": -90.64112,
+    "geocoded": false
+  },
+  "422": {
+    "lat": 30.112862,
+    "lon": -90.56411,
+    "geocoded": false
+  },
+  "423": {
+    "lat": 30.107485,
+    "lon": -90.50545,
+    "geocoded": false
+  },
+  "425": {
+    "lat": 30.073429947452,
+    "lon": -90.500697047704,
+    "address": "10 LA-3188, LA Place, Louisiana, 70068",
+    "geocoded": true
+  },
+  "427": {
+    "lat": 30.046224002748,
+    "lon": -89.961299034749,
+    "address": "I-10 W & Bullard Ave, New Orleans, Louisiana, 70128",
+    "geocoded": true
+  },
+  "428": {
+    "lat": 30.027666,
+    "lon": -90.003151,
+    "geocoded": false
+  }
+}

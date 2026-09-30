@@ -1,0 +1,6 @@
+{
+  "name": "God's Eye Global Surveillance",
+  "description": "Real-time global monitoring system with satellite feeds, aircraft telemetry, orbital satellites, and live municipal CCTV networks.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
